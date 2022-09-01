@@ -1,7 +1,9 @@
 # Anime-recommendations
 
 ## Authors
+
 -Eugene Lee
+
 -Simon Lee
 
 # Objective
