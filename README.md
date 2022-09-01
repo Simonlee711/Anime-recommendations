@@ -1,6 +1,6 @@
 # Anime-recommendations
 
-## Authors
+#### Authors
 
 -Eugene Lee
 
