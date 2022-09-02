@@ -1,4 +1,4 @@
-'''
+''' 
 A class that scrapes the interent for anime summaries.
 '''
 __author__ = 'Simon Lee'
@@ -37,21 +37,14 @@ class synopsis_extractor():
         htmldata = self.getdata("https://myanimelist.net/anime/" + anime_id)
         soup = BeautifulSoup(htmldata, 'html.parser')
         data = ''
+        summary = ''
         key = ['MAL', 'Rewrite']
         for data in soup.find_all('p'):
             summary = data.get_text()
             if [True for x in key if x in summary]:
                 for i in deletions:
                     summary = summary.replace(i,'')
-                return summary
+                    print(summary)
+                    return summary
             continue
         
-
-# main - sample testing to show you how this works ;)
-obj = synopsis_extractor()
-print("Synopsis for Kimi no Na wa.")
-obj.synopsis_scraper('32281')
-print("\nSynopsis for Fullmetal Alchemist: Brotherhood")
-obj.synopsis_scraper('5114')
-print("\nSynopsis for Gintama°")
-obj.synopsis_scraper('28977')

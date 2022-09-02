@@ -1,0 +1,101 @@
+Unnamed: 0,anime_id,name,genre,type,episodes,rating,members,synopsis
+100,30230,Diamond no Ace: Second Season,"Comedy, School, Shounen, Sports",TV,51,8.5,38531,0
+101,18115,Magi: The Kingdom of Magic,"Action, Adventure, Fantasy, Magic, Shounen",TV,25,8.5,245026,0
+102,11981,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,"Drama, Magic, Psychological, Thriller",Movie,1,8.5,135735,0
+103,11917,Major: World Series,"Comedy, Drama, Sports",OVA,2,8.5,13405,0
+104,205,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",TV,26,8.5,390076,0
+105,32282,Shokugeki no Souma: Ni no Sara,"Ecchi, School, Shounen",TV,13,8.5,185015,0
+106,6594,Katanagatari,"Action, Adventure, Historical, Martial Arts, Romance",TV,12,8.49,207241,0
+107,11979,Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari,"Drama, Magic, Psychological, Thriller",Movie,1,8.49,85361,0
+108,7655,Major S6,"Comedy, Drama, Sports",TV,25,8.49,24788,0
+109,2246,Mononoke,"Demons, Fantasy, Historical, Horror, Mystery, Seinen, Supernatural",TV,12,8.49,88850,0
+110,25835,Shirobako,"Comedy, Drama",TV,24,8.49,146895,0
+111,2921,Ashita no Joe 2,"Drama, Sports",TV,47,8.48,6259,0
+112,136,Hunter x Hunter,"Action, Adventure, Shounen, Super Power",TV,62,8.48,166255,0
+113,30503,Noragami Aragoto,"Action, Adventure, Shounen, Supernatural",TV,13,8.48,299434,0
+114,12531,Sakamichi no Apollon,"Drama, Josei, Music, Romance, School",TV,12,8.48,146592,0
+115,523,Tonari no Totoro,"Adventure, Comedy, Supernatural",Movie,1,8.48,271484,0
+116,467,Ghost in the Shell: Stand Alone Complex,"Action, Mecha, Military, Police, Sci-Fi, Seinen",TV,26,8.47,194491,0
+117,572,Kaze no Tani no Nausicaä,"Adventure, Fantasy",Movie,1,8.47,143273,0
+118,19815,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV,12,8.47,602291,0
+119,2559,Romeo no Aoi Sora,"Adventure, Drama, Historical, Slice of Life",TV,33,8.47,15074,0
+120,392,Yuu☆Yuu☆Hakusho,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",TV,112,8.47,195017,0
+121,486,Kino no Tabi: The Beautiful World,"Action, Adventure, Slice of Life",TV,13,8.46,102822,0
+122,11771,Kuroko no Basket,"Comedy, School, Shounen, Sports",TV,25,8.46,338315,0
+123,1698,Nodame Cantabile,"Comedy, Drama, Josei, Music, Romance, Slice of Life",TV,23,8.46,157025,0
+124,5341,Ookami to Koushinryou II,"Adventure, Fantasy, Historical, Romance",TV,12,8.46,210491,0
+125,25781,Shingeki no Kyojin: Kuinaki Sentaku,"Action, Fantasy, Shoujo, Supernatural",OVA,2,8.45,92543,0
+126,10863,Steins;Gate: Oukoubakko no Poriomania,"Sci-Fi, Thriller",Special,1,8.46,159548,0
+127,28701,Fate/stay night: Unlimited Blade Works 2nd Season,"Action, Fantasy, Magic, Shounen, Supernatural",TV,13,8.45,205987,0
+128,5420,Kemono no Souja Erin,"Drama, Fantasy",TV,50,8.45,36751,0
+129,9260,Kizumonogatari I: Tekketsu-hen,"Mystery, Supernatural, Vampire",Movie,1,8.45,99579,0
+130,32,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",Movie,1,8.45,215630,0
+131,4224,Toradora!,"Comedy, Romance, School, Slice of Life",TV,25,8.45,633817,0
+132,2236,Toki wo Kakeru Shoujo,"Adventure, Drama, Romance, Sci-Fi",Movie,1,8.44,289206,0
+133,2685,Tsubasa: Tokyo Revelations,"Action, Adventure, Drama, Fantasy, Romance, Shounen",OVA,3,8.44,57963,0
+134,31181,Owarimonogatari,"Comedy, Mystery, Supernatural",TV,12,8.43,107855,0
+135,45,Rurouni Kenshin: Meiji Kenkaku Romantan,"Action, Adventure, Comedy, Historical, Romance, Samurai",TV,94,8.43,218928,0
+136,2418,Stranger: Mukou Hadan,"Action, Adventure, Historical, Samurai",Movie,1,8.43,125503,0
+137,1365,Detective Conan Movie 06: The Phantom of Baker Street,"Adventure, Mystery, Police, Shounen",Movie,1,8.42,28462,0
+138,22297,Fate/stay night: Unlimited Blade Works,"Action, Fantasy, Magic, Shounen, Supernatural",TV,12,8.42,267484,0
+139,627,Major S1,"Comedy, Drama, Shounen, Sports",TV,26,8.42,41061,0
+140,10937,Mobile Suit Gundam: The Origin,"Action, Mecha, Military, Sci-Fi, Shounen, Space",OVA,6,8.42,15420,0
+141,23755,Nanatsu no Taizai,"Action, Adventure, Ecchi, Fantasy, Shounen, Supernatural",TV,24,8.42,331627,0
+142,4081,Natsume Yuujinchou,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",TV,13,8.42,210736,0
+143,4155,One Piece Film: Strong World,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",Movie,1,8.42,85020,0
+144,1889,Higurashi no Naku Koro ni Kai,"Mystery, Psychological, Supernatural, Thriller",TV,24,8.41,218101,0
+145,137,Hunter x Hunter OVA,"Action, Adventure, Shounen, Super Power",OVA,8,8.41,53168,0
+146,139,Hunter x Hunter: Greed Island Final,"Action, Adventure, Shounen, Super Power",OVA,14,8.41,55787,0
+147,23317,Kuroshitsuji: Book of Murder,"Comedy, Demons, Fantasy, Historical, Mystery, Shounen, Supernatural",OVA,2,8.41,67261,0
+148,558,Major S2,"Comedy, Drama, Shounen, Sports",TV,26,8.41,30689,0
+149,5040,One Outs,"Psychological, Seinen, Sports",TV,25,8.41,83056,0
+150,57,Beck,"Comedy, Drama, Music, Shounen, Slice of Life",TV,26,8.4,148328,0
+151,33,Berserk,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",TV,25,8.4,226430,0
+152,5,Cowboy Bebop: Tengoku no Tobira,"Action, Drama, Mystery, Sci-Fi, Space",Movie,1,8.4,137636,0
+153,1842,Major S3,"Drama, Shounen, Sports",TV,26,8.4,29528,0
+154,6336,Mobile Suit Gundam Unicorn,"Action, Drama, Mecha, Military, Sci-Fi, Space",OVA,7,8.4,42076,0
+155,20651,Natsume Yuujinchou: Itsuka Yuki no Hi ni,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",OVA,1,8.4,28302,0
+156,1210,NHK ni Youkoso!,"Comedy, Drama, Psychological, Romance",TV,24,8.4,291228,0
+157,338,Rose of Versailles,"Adventure, Drama, Historical, Romance, Shoujo",TV,40,8.4,32188,0
+158,13759,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV,24,8.4,380375,0
+159,6547,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",TV,13,8.39,717796,0
+160,5081,Bakemonogatari,"Mystery, Romance, Supernatural, Vampire",TV,15,8.39,482268,0
+161,32867,Bungou Stray Dogs 2nd Season,"Mystery, Seinen, Supernatural",TV,12,8.39,83641,0
+162,264,Hajime no Ippo: Champion Road,"Comedy, Shounen, Sports",Special,1,8.39,47840,0
+163,12859,One Piece Film: Z,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",Movie,1,8.39,76051,0
+164,853,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",TV,26,8.39,422271,0
+165,5460,Detective Conan Movie 13: The Raven Chaser,"Action, Mystery, Police, Shounen",Movie,1,8.38,21798,0
+166,6746,Durarara!!,"Action, Mystery, Supernatural",TV,24,8.38,556431,0
+167,5690,Nodame Cantabile Finale,"Comedy, Josei, Music, Romance",TV,11,8.38,67697,0
+168,329,Planetes,"Drama, Romance, Sci-Fi, Seinen, Space",TV,26,8.38,105044,0
+169,34240,Shelter,"Music, Sci-Fi",Music,1,8.38,71136,0
+170,513,Tenkuu no Shiro Laputa,"Adventure, Fantasy, Romance, Sci-Fi",Movie,1,8.38,151061,0
+171,6945,Gintama: Shiroyasha Koutan,"Action, Comedy, Historical, Parody, Sci-Fi",Special,1,8.37,27213,0
+172,1142,Hachimitsu to Clover II,"Drama, Josei, Romance",TV,12,8.37,61493,0
+173,6811,InuYasha: Kanketsu-hen,"Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",TV,26,8.37,99128,0
+174,16664,Kaguya-hime no Monogatari,"Fantasy, Historical",Movie,1,8.37,45547,0
+175,1604,Katekyo Hitman Reborn!,"Action, Comedy, Shounen, Super Power",TV,203,8.37,258103,0
+176,22145,Kuroshitsuji: Book of Circus,"Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV,10,8.37,122895,0
+177,2966,Ookami to Koushinryou,"Adventure, Fantasy, Historical, Romance",TV,13,8.37,334932,0
+178,31964,Boku no Hero Academia,"Action, Comedy, School, Shounen, Super Power",TV,13,8.36,282002,0
+179,19363,Gin no Saji 2nd Season,"Comedy, School, Shounen, Slice of Life",TV,11,8.36,67032,0
+180,18195,Little Busters!: Refrain,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV,13,8.36,71820,0
+181,9890,Major: Message,"Comedy, Drama, Sports",OVA,1,8.36,12282,0
+182,9130,Saint Seiya: The Lost Canvas - Meiou Shinwa 2,"Action, Adventure, Martial Arts, Shounen, Super Power, Supernatural",OVA,13,8.36,27532,0
+183,9863,SKET Dance,"Comedy, School, Shounen",TV,77,8.36,101027,0
+184,7674,Bakuman.,"Comedy, Romance, Shounen",TV,25,8.35,246899,0
+185,11843,Danshi Koukousei no Nichijou,"Comedy, School, Shounen, Slice of Life",TV,12,8.35,258914,0
+186,16782,Kotonoha no Niwa,"Drama, Psychological, Romance, Slice of Life",Movie,1,8.35,189741,0
+187,28675,Kyoukai no Kanata Movie: I&#039;ll Be Here - Mirai-hen,"Fantasy, Slice of Life, Supernatural",Movie,1,8.35,59815,0
+188,3226,Major S4,"Comedy, Drama, Shounen, Sports",TV,26,8.35,28002,0
+189,21557,Omoide no Marnie,"Drama, Mystery, Psychological",Movie,1,8.35,53590,0
+190,31715,Working!!!: Lord of the Takanashi,"Comedy, Romance, Slice of Life",Special,1,8.34,31856,0
+191,43,Ghost in the Shell,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",Movie,1,8.34,223036,0
+192,9617,K-On! Movie,"Comedy, Music, Slice of Life",Movie,1,8.34,115252,0
+193,31051,Kuroko no Basket: Saikou no Present Desu,"Action, School, Shounen, Sports",Special,1,8.34,22900,0
+194,10153,Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s,"Action, Comedy, Drama, Magic, Super Power",Movie,1,8.34,13315,0
+195,1033,Sennen Joyuu,"Action, Adventure, Drama, Fantasy, Historical, Romance",Movie,1,8.34,58492,0
+196,32188,Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero,"Sci-Fi, Thriller",Special,1,8.34,38147,0
+197,3091,xxxHOLiC Kei,"Comedy, Drama, Mystery, Psychological, Supernatural",TV,13,8.34,74941,0
+198,12115,Berserk: Ougon Jidai-hen III - Kourin,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",Movie,1,8.33,65594,0
+199,28223,Death Parade,"Drama, Game, Mystery, Psychological, Thriller",TV,12,8.33,383914,0
