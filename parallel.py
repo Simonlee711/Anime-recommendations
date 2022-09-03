@@ -9,8 +9,16 @@ def checker(dataframe):
     if os.path.exists(lock_file):
         with open(lock_file, "r") as lf:
             lock_file_ids = set(lf.read().splitlines())
+                
     else:
         with open(lock_file, "w") as lf:
             lf.write(dataframe + "\n")
 
     print("lock files:", lock_file_ids)
+
+    if dataframe in lock_file_ids:
+        print("{} already exists in training set. Skipping...".format(dataframe))
+        return
+    else:
+        with open(lock_file, "a+") as lf:
+            lf.write(dataframe + "\n")
