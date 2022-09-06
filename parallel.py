@@ -18,7 +18,8 @@ def checker(dataframe):
 
     if dataframe in lock_file_ids:
         print("{} already exists in training set. Skipping...".format(dataframe))
-        return
+        return True
     else:
         with open(lock_file, "a+") as lf:
             lf.write(dataframe + "\n")
+            return False
