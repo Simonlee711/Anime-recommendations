@@ -1,3 +1,9 @@
+'''
+A progress checking file that checks if a file is in the lockfile or not.
+
+A lockfile helps keep progress as we write out our data containing the synopsis after undergoing webscraping.
+'''
+
 import pandas as pd 
 import synopsis_scraper
 from tqdm import tqdm

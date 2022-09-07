@@ -4,9 +4,6 @@ home_dir = os.environ["HOME"]
 project_dir = "Anime-recommendations/"
 
 
-# if not os.path.exists(project_dir):
-#     os.makedirs(project_dir)
-
 # should either be "data" or "data2" - need to handle different file naming conventions and file formats
 # data 1 is where the batches are created
 # data 2 is where the batches are developed and saved
